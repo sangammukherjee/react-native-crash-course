@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "react-native-practice-app-2023",
+    "name": "react native app",
     "slug": "react-native-practice-app-2023",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.sangameni.reactnativepracticeapp2023"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4be91c74-41e6-40f6-bf7a-f86464b1bba7"
+      }
     }
   }
 }
